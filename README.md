@@ -43,6 +43,10 @@
 
 <img align="left" alt="Edgar Nava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edgarnava80&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnava80)](https://github.com/edgarnava80/github-readme-stats)
+
 [website]: https://edgarnava.netlify.app/
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
