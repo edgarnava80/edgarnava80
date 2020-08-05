@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="Edgar Nava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edgarnava80&show_icons=true&hide_border=true&count_private=true&theme=cobalt" />
+<img align="left" alt="Edgar Nava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edgarnava80&show_icons=true&hide_border=true&count_private=true&theme=prussian" />
 
 [website]: https://edgarnava.netlify.app/
 [twitter]: https://twitter.com/
