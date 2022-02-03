@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a new ecommerce store with Node.js, React, Redux, MongoDB, Microservices, Microfrontends and more...!
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Make my first React Native app!
+- 🥅 2022 Goals: Make my first React Native app!
 - ⚡ Fun fact: I love to put meat on the grill!
 
 ### Connect with me:
