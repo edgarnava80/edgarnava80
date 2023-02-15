@@ -5,21 +5,9 @@
 - 🔭 I’m currently working on a new ecommerce store with Node.js, React, Redux, MongoDB, Microservices, Microfrontends and more...!
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Make my first React Native app!
+- 🥅 2023 Goals: Make my first React Native app!
 - ⚡ Fun fact: I love to put meat on the grill!
 
-### Connect with me:
-
-[<img align="left" alt="Edgar Nava's website." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<!--[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
-
-[<img align="left" alt="Edgar Nava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!--[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
-
-<br />
 
 ### Languages and Tools:
 
